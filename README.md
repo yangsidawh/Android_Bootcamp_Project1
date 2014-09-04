@@ -18,4 +18,5 @@ Notes:
   Not found a event to do this but get some ideas like using onTouchEvent to track the movement and then handler it.
 
 Walkthrough of all user stories:
+
 ![Video Walkthrough](project1.gif)
