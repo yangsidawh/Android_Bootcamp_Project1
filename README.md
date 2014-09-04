@@ -16,7 +16,7 @@ Notes:
 1 Spent sometime setup the Android
 
 2 Trying to find a more user friendly solution for delete action. Expected behaviors like: swipe->show delete->then delete. 
-  Not found a event to do this but get some ideas like using onTouchEvent to track the movement and then handler it.
+  Not found a event to do this but get some ideas like using onTouchEvent to track the movement and then handle it.
 
 Walkthrough of all user stories:
 
