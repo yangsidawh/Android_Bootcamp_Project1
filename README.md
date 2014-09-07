@@ -20,4 +20,4 @@ Notes:
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](project1.gif)
+![Video Walkthrough](TipCalculator.gif)
